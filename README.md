@@ -2,9 +2,6 @@
 **Öğrenci:** M. Yemin Mevaldi  
 **Numara:** 9251478112
 
-Bu proje, Ödev 5.1'de geliştirilen temel sistemin üzerine 3 büyük yenilik eklenerek Ödev 5.2 (V2) standartlarına getirilmiştir.
-
-
 ### 🛠 Kullanım Örneği
 ```bash
 python minigrades.py init
